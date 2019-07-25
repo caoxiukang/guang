@@ -10,8 +10,8 @@
 namespace Guang;
 class BaseGuang
 {
-    public function __construct($id = 0)
+    public function __construct()
     {
-        $this->id = $id;
+
     }
 }
