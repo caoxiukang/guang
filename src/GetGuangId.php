@@ -14,7 +14,7 @@ class GetGuangId extends BaseGuang
 {
     public function __construct($id = 0)
     {
-        parent::__construct($id);
+        $this->id = $id;
     }
 
     public function getId()
