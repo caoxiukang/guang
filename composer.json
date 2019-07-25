@@ -1,0 +1,21 @@
+{
+  "name": "caoxiukang/guang",
+  "description": "this is caoxiukang's study project",
+  "type": "library",
+  "require-dev": {
+    "php": ">=5.5"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Xiukang Cao",
+      "email": "1102842479@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "psr-4": {
+      "Guang\\": "src/"
+    }
+  }
+}
